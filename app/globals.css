@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-hex: #eeeeee;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-hex: #424242;
+  }
+}
+
+body {
+  background-color: var(--background-hex);
+}
