@@ -1,1 +1,1 @@
-An old exemplar/test project of using the app router and server actions within Next JS 13.4
+An old exemplar/test project of using OpenAI Image Generation in NextJS 13.4
